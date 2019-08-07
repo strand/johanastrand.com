@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: "Resume - Strand McCutchen"
@@ -6,6 +7,7 @@ tags: resume
 comments: false
 sharing: false
 ---
+-->
 # Johana Strand McCutchen
 <p align="right">Seattle<br/>
 johana@bettermistak.es · (206) 569-4363</p>
