@@ -1,0 +1,2 @@
+# johanastrand.com
+static site
